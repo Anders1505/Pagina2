@@ -1,0 +1,12 @@
+tr {
+    color: teal;
+    text-align: center;
+    background-color: wheat;
+    font-family: monospace;
+    border: turquoise;
+    border-width: thin;
+}
+
+a {
+    font-family: monospace;
+}
